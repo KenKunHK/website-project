@@ -23,13 +23,13 @@ class Header extends Component {
 
             <ul id="nav" className="nav">
                <li className="current"><a href="#home">申请地区运营中心</a></li>
-               <li><a href="#about">孵化之星赛</a></li>
-               <li><a href="#resume">女总裁IP赛 </a></li>
-               <li><a href="#portfolio">运河代言赛</a></li>
-               <li><a href="#testimonials">创新创业赛</a></li>
-               <li><a href="#contact">大学生才艺赛</a></li>
-               <li><a href="#contact">会长PK赛</a></li>
-               <li><a href="#contact">县长PK赛</a></li>
+               <li><a href="https://www.google.com">孵化之星赛</a></li>
+               <li><a href="https://www.google.com">女总裁IP赛 </a></li>
+               <li><a href="https://www.google.com">运河代言赛</a></li>
+               <li><a href="https://www.google.com">创新创业赛</a></li>
+               <li><a href="https://www.google.com">大学生才艺赛</a></li>
+               <li><a href="https://www.google.com">会长PK赛</a></li>
+               <li><a href="https://www.google.com">县长PK赛</a></li>
             </ul>
 
          </nav>
